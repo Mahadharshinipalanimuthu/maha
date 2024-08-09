@@ -1,1 +1,2 @@
 print("maha")
+print("magi")
